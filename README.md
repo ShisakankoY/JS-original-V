@@ -16,6 +16,12 @@ HTMLとJavaScriptのcanvasを用いて作られたアバターです。
 このソフトウェアは、作者の明示的な許可を受けた場合のみ個人利用可能です。  
 許可なく使用・改変・配布することを禁止します。
 
+本アプリケーションはマイク入力を使用しますが、
+音声データの録音・保存・外部送信は一切行いません。
+取得した音声は、ブラウザ内でリアルタイム解析され、
+アバターの口パク表現のみに使用されます。
+
+
 ---
 
 ## //English
@@ -30,3 +36,7 @@ See [LICENSE](./LICENSE) for details.
 ### Other
 This software may only be used for personal purposes with explicit written permission from the author.  
 Any public, commercial, or unauthorized use, modification, or distribution is strictly prohibited.
+
+This application uses microphone input only for real-time analysis.
+No audio is recorded, stored, or transmitted to any external server.
+All audio processing is performed locally within the browser.
