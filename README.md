@@ -9,6 +9,9 @@ HTMLとJavaScriptのcanvasを用いて作られたアバターです。
 使用時にはマイクの許可が必要です。  
 無断使用は禁止です。
 
+※ 本リポジトリはコード公開を目的としており、
+オープンソースソフトウェアではありません。
+
 ### ライセンス
 詳細は [LICENSE](./LICENSE) をご覧ください。
 
@@ -29,6 +32,9 @@ HTMLとJavaScriptのcanvasを用いて作られたアバターです。
 ### Overview
 This is an avatar created using HTML and JavaScript canvas.  
 (Microphone permission is required for use.) Unauthorized use is strictly prohibited.
+
+※ This repository is for code publication purposes only
+and is NOT an open-source software project.
 
 ### License
 See [LICENSE](./LICENSE) for details.
